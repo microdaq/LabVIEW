@@ -1,14 +1,14 @@
 MicroDAQ LabVIEW support package
 ...................
 
-:Latest release: 1.0.0
+:Latest release: 1.1.0
 :Maintainer: Embedded Solutions
 :Description: MicroDAQ LabVIEW support package 
 
 Description
 ============
 
-This respository contains MicroDAQ LabVIEW support package. This package allows user to access MicroDAQ hardware via Ethernet or WIFI. This package supports LabVIEW 2009 and above. In order to install package use LabVIEW Package Manager. You can download LabVIEW Package Manager software from JKI website http://jki.net/vipm/download.
+This respository contains MicroDAQ LabVIEW support package. Windows 32-bit and 64-bit platforms are supported. This package allows user to access MicroDAQ hardware via Ethernet or WIFI. This package supports LabVIEW 2009 and above. In order to install package use LabVIEW Package Manager. You can download LabVIEW Package Manager software from JKI website http://jki.net/vipm/download.
 
 
 Key Features
