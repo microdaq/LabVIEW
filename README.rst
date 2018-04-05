@@ -37,9 +37,11 @@ Support
 
 This package is support by Embedded Solutions. Issues and problems with software can be raported on: 
 support@embedded-solutions.pl 
+
 https://github.com/microdaq/LabVIEW/issues
 
 Required software (dependencies)
 ================================
+* The MicroDAQ LabView support package requires latest MicroDAQ firmware 2.1.0 or above. 
 * Windows OS
 * LabView 2009 or above (32/64-bit)
