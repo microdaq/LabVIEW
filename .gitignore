@@ -1,0 +1,10 @@
+# Libraries
+*.lvlibp
+*.llb
+
+# Executables
+*.exe
+
+# Metadata
+*.aliases
+*.lvlps
